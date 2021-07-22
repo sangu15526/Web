@@ -1,0 +1,25 @@
+body{
+  margin: 0;
+}
+.topcont{
+  background-color: red;
+  width: 200px;
+  height:200px;
+  position: absolute;
+  top: 400px;
+  left: 400px;
+}
+.midcont{
+  background-color: blue;
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  top: 200px;
+  left: 200px;
+}
+.bottomcont{
+  background-color: yellow;
+  width:200px;
+  height: 200px;
+  position: absolute;
+}
